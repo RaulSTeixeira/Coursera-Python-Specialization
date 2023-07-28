@@ -1,3 +1,5 @@
+# MADE BY RAUL TEIXEIRA - 26.07.2023
+
 """
 Project for Week 4 of "Python Data Visualization".
 Unify data via common country codes.
@@ -8,7 +10,6 @@ about the expected behavior of the program.
 
 import csv
 import math
-
 import pygal
 
 
